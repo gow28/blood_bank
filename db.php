@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';  // Database host
 $username = 'root';   // Database username
-$password = 'Ng2004@28';       // Database password
+$password = '';       // Database password-your password for the username
 $dbname = 'blood_bank_system';  // Database name
 
 // Create a connection
